@@ -1,6 +1,6 @@
 # jsPDF for Unity WebGL
 
-This repository contains a Unity package `jsPDFUnity.unitypackage` that includes both the files `jsPDFBridge.jslib` and `PDFGenerator.cs` that will be imported into your Unity project that targets the WebGL platform.
+This repository contains a Unity package `jsPDFForUnityWebGL.unitypackage` that includes both the files `jsPDFBridge.jslib` and `PDFGenerator.cs` that will be imported into your Unity project that targets the WebGL platform.
 
 You can modify the `jsPDFBridge.jslib` `generatePDF()` function to create a customized PDF document. Additionally, you can modify the generatePDF function to take a string argument and convert from a Pointer to a JavaScript string using `UTF8ToString()` in the .jslib file.
 
